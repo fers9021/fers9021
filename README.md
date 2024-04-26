@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fers9021
+- 👋 Hi, I’m @fercan
 - 👀 I’m interested in HTML, CSS and JavaScript
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to opportunities on front end development
